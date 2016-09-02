@@ -1,3 +1,3 @@
 
 
-This file is used to save results.
+This folder is used to save results.
