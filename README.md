@@ -1,2 +1,2 @@
 # Python-Crawler
-download all images from a web page of Baidu Tieba 
+download all images from a tiezi of Baidu Tieba 
